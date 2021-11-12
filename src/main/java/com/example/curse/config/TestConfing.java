@@ -1,4 +1,4 @@
-package com.example.curse;
+package com.example.curse.config;
 
 import java.time.Instant;
 import java.util.Arrays;
